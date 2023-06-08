@@ -1,1 +1,9 @@
 今後ともよろしくお願いします
+
+if(須藤は隣にいる){
+System.outPrintln("こちらこそよろしくお願いします");
+}else{
+System.outPrintln("見捨てないで…");
+}
+
+return hug;
