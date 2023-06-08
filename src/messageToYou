@@ -1,9 +1,18 @@
+だいたいの手順
+
+GitHub共有
+各々ブランチ作る
+各々のブランチ内の作業が終わったらプルリクエストで確認してもらう
+確認オーケーだったらマージ（統合）
+
+
+
 if(演習しんどい){
 System.outPrintln("ぼくらはナカーマ");
-森 =  ねこじゃない;
-System.outPrintln(森);
+String 森 =  ねこじゃない;
+String message = System.outPrintln(森);
 }else{
-System.outPrintln("見捨てないで…");
+System.outPrintln("見捨てないで。ぼくは" + 森);
 }
 
-return hug;
+return message;
