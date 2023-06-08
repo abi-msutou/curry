@@ -1,0 +1,9 @@
+if(演習しんどい){
+System.outPrintln("ぼくらはナカーマ");
+森 =  ねこじゃない;
+System.outPrintln(森);
+}else{
+System.outPrintln("見捨てないで…");
+}
+
+return hug;
